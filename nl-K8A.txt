@@ -1,0 +1,20 @@
+├── @babel/core@7.11.1
+├── @babel/runtime@7.11.2
+├── @react-native-community/eslint-config@2.0.0
+├── @types/jest@26.0.9
+├── @types/react-native@0.63.6
+├── @types/react-test-renderer@16.9.3
+├── @typescript-eslint/eslint-plugin@3.8.0
+├── @typescript-eslint/parser@3.8.0
+├── babel-jest@26.3.0
+├── eslint@7.6.0
+├── jest@26.3.0
+├── metro-react-native-babel-preset@0.62.0
+├── prettier@2.0.5
+├── react@16.13.1
+├── react-native@0.63.2
+├── react-test-renderer@16.13.1
+└── typescript@3.9.7
+
+npm ERR! peer dep missing: eslint@^3.17.0 || ^4 || ^5 || ^6, required by eslint-plugin-react-native@3.8.1
+npm ERR! peer dep missing: react-native@^0.62.0-rc.0, required by @react-native-community/cli@4.10.1
